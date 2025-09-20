@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yordanos</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia.</h3>
 
-- 🔭 I’m currently working on **Frontend Mentor Exercise**
+- 🔭 I’m currently working on **Frontend Mentor Exercises**
 
 - 🌱 I’m currently learning **React and Docker**
 
